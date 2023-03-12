@@ -1,0 +1,193 @@
+#bgimg1
+{
+    background-image: url("hiking.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: white;
+    padding-bottom:15% ;
+}
+#top_img
+{
+
+    display: inline;
+}
+#head_logo
+{
+    margin-top: -2%;
+    display: inline;
+}
+.nav_options
+{
+    display: inline;
+    padding-left: 7%;
+}
+li a
+{
+    color: white;
+    padding: 2%;
+}
+li a:hover
+{
+    background-color: rgb(74, 74, 74);
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.nav_options li
+{
+    color: white;
+    display: inline;
+    padding: 1%;
+}
+.searchbar
+{
+    padding-left: 2%;
+    border-radius: 30px 30px;
+    background-color: white; 
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
+.searchbar input
+{
+    border: none;
+}
+.section1_lhs
+{
+    box-sizing: border-box;
+    background-color:rgba(255, 72, 0, 0.195);
+    margin-top: 21%;
+    padding-top: 2%;
+    margin-left: 5%;
+}
+.section1_lhs p
+{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.section1_lhs h5
+{
+    padding-bottom: 5%;
+}
+.section1_rhs
+{
+    margin-left: 9%;
+}
+.section1_rhs p
+{
+    margin-top: 10%;
+    margin-left: -4%;
+}
+#learnmore_btn
+{
+    margin-top: 5%;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin-left: -15%;
+    margin-bottom: 10%;
+    background-color: rgba(245, 245, 220, 0);
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 90%;
+    font-weight: 600;
+}
+#white_learnmore_btn
+{
+    margin-top: 5%;
+    border: 6px solid white;
+    border-radius: 20px;
+    margin-left: -15%;
+    margin-bottom: 10%;
+    background-color: rgba(245, 245, 220, 0);
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 90%;
+    font-weight: 600;
+    color: white;
+}
+    /* .midstroke
+    {
+        position: absolute;
+        bottom:-5% ;
+        background-image: url("blackstroke2.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 30%;
+        padding-bottom: 40%;
+    } */
+    .midstroke
+    {
+        margin-top:-5% ;
+        position: absolute;
+        height: 100%;
+    }
+
+.section2
+{
+    margin-top: 2%;
+    padding:5%;
+    background-color: rgba(255, 166, 0, 0.844);
+    /* opacity: 0.5rem; */
+}
+.section2 h4
+{
+    font-size: 300%;
+    font-weight: 400;
+}
+#stroke 
+{
+    color: white;
+    background-image: url("blackstroke2.png");  
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 17%;
+    padding: 4%;   
+}
+#stroke p{
+    margin-left: 17%;
+}
+/* .section3_img
+{
+padding: 5%;
+background-image: url("footer.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+} */
+.section3_img
+{
+position: absolute;
+}
+#sec3
+{
+margin-bottom: 80%;
+}
+.section3_hr
+{
+color: black;
+}
+.section3_para
+{
+
+position: relative;
+margin: 4%;
+
+}
+.section3_para span
+{
+font-size: 300%;
+font-weight: 200;
+}
+ .chooselavel{
+    font-size: 40px;
+    text-align: center;
+    
+    font-weight: bold;
+} 
+.footerimg{
+     background-image: url("./footer.jpg"); 
+    background-repeat: no-repeat;
+    width: auto;
+    
+}
